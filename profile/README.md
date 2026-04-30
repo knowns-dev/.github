@@ -1,97 +1,69 @@
 # Knowns Team
 
-> *Good tools do not need to be complex, they just need to solve the right problem.*
+<p align="center">
+  <a href="https://github.com/knowns-dev/knowns"><img src="https://img.shields.io/github/stars/knowns-dev/knowns?style=flat-square&logo=github&label=Stars" alt="GitHub Stars"></a>
+  <a href="https://github.com/knowns-dev/knowns/graphs/contributors"><img src="https://img.shields.io/github/contributors/knowns-dev/knowns?style=flat-square&logo=github" alt="Contributors"></a>
+  <a href="https://discord.knowns.dev"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://knowns.sh"><img src="https://img.shields.io/badge/Website-knowns.sh-000?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/knowns-dev/knowns/blob/main/LICENSE"><img src="https://img.shields.io/github/license/knowns-dev/knowns?style=flat-square" alt="License"></a>
+  <img src="https://img.shields.io/badge/Made%20in-Vietnam%20🇻🇳-red?style=flat-square" alt="Made in Vietnam">
+</p>
 
-We are a small open-source team from Vietnam, building developer tools that actually matter.
+> *Good tools don't need to be complex — they just need to solve the right problem.*
 
-## Who We Are
-
-Knowns is a team of 4 developers with a simple mission: **reduce complexity, increase productivity**.
-
-We believe great tools don't need to be complicated — they just need to solve the right problem.
-
-## Our Product
-
-### Knowns CLI
-
-A CLI-first knowledge management tool that helps developers:
-
-- **Task Management** — Manage work directly from your terminal
-- **Time Tracking** — Track time spent on tasks
-- **Documentation** — Organize project documentation
-- **AI-Ready Workflow** — Structure knowledge so AI can work as a real teammate
-
-```bash
-# Install
-npm install -g knowns
-
-# Initialize project
-knowns init
-
-# Create task
-knowns task create "Build new feature" --ac "Tests pass" --ac "Docs updated"
-
-# Start working
-knowns task edit 1 -s in-progress
-knowns time start 1
-```
-
-**Core concept**: *"If knowledge is explicit, structured, and versioned, AI can work like a real teammate."*
-
-## Team
-
-| Member | Role | Expertise |
-|--------|------|-----------|
-| **Howz Nguyen** | Founder | AI/ML, Backend Systems, Node.js |
-| **Harry Vu** | Full-stack | React, Node.js, TypeScript |
-| **Olivia Alter** | Backend | APIs, Databases |
-| **Vo Trung Nam** | Frontend | Vue.js, React, TailwindCSS |
-
-## Our Values
-
-| Value | What It Means |
-|-------|---------------|
-| **Open Source First** | Public repositories, community-driven development |
-| **Learn Together** | Continuous growth, shared knowledge |
-| **Ship & Iterate** | Working software over perfect planning |
-| **Developer Experience** | Build tools we actually want to use |
-
-## Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [Knowns CLI](https://github.com/nickkdev/knowns) | CLI knowledge management tool | Active |
-| [cli.knowns.dev](https://cli.knowns.dev) | Landing page & Documentation | Active |
-
-## Get Involved
-
-### Use Knowns CLI
-
-```bash
-npm install -g knowns
-knowns init
-```
-
-### Contribute
-
-1. Pick an issue from [GitHub Issues](https://github.com/nickkdev/knowns/issues)
-2. Fork the repo and create a branch
-3. Submit a Pull Request
-
-### Report Issues
-
-Found a bug or have an idea? [Open a new issue](https://github.com/nickkdev/knowns/issues/new)
-
-## Links
-
-- **Website**: [knowns.dev](https://knowns.dev)
-- **Documentation**: [cli.knowns.dev](https://cli.knowns.dev)
-- **GitHub**: [github.com/nickkdev/knowns](https://github.com/nickkdev/knowns)
-
-## License
-
-MIT License
+We're a small open-source team from Vietnam, building developer tools that actually matter.
 
 ---
 
-**Made with focus by Knowns Team**
+## Who We Are
+
+We believe AI coding assistants are powerful — but they forget everything between sessions. That's the problem we set out to fix.
+
+Knowns started as a side project to scratch our own itch: **give AI structured access to project knowledge so it stops guessing and starts building.** It grew into an open-source tool used by developers who pair with AI daily.
+
+Our mission is simple: **reduce complexity, increase productivity.**
+
+---
+
+## Team
+
+| Member | Role |
+|--------|------|
+| **Howz Nguyen** | Founder & Lead Developer |
+
+And a growing community of [open-source contributors](https://github.com/knowns-dev/knowns/graphs/contributors).
+
+---
+
+## Values
+
+| | |
+|---|---|
+| **Open Source First** | Public repos, community-driven. Always. |
+| **Learn Together** | We grow by sharing what we know. |
+| **Ship & Iterate** | Working software beats perfect plans. |
+| **Developer Experience** | We build tools we actually want to use. |
+
+---
+
+## Get Involved
+
+We welcome contributions of all kinds — code, docs, ideas, bug reports.
+
+1. Pick an issue from [GitHub Issues](https://github.com/knowns-dev/knowns/issues)
+2. Fork the repo and create a branch
+3. Submit a Pull Request
+
+**Found a bug or have an idea?** [Open an issue](https://github.com/knowns-dev/knowns/issues/new)
+
+---
+
+## Links
+
+- **Homepage:** [knowns.sh](https://knowns.sh)
+- **GitHub:** [github.com/knowns-dev/knowns](https://github.com/knowns-dev/knowns)
+- **Discord:** [discord.knowns.dev](https://discord.knowns.dev)
+
+---
+
+<p align="center"><strong>Made with focus by Knowns Team 🇻🇳</strong></p>
